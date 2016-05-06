@@ -1,1 +1,2 @@
 # CS540-Naive-Bayes-
+This program is the simple application of Naive Bayes classifiers is in spam filtering for e-mail/SMS. The NaiveBayesClassifierImpl.java is implemented by Han Jiang, and all other files are provided by instrutor Collin. 
